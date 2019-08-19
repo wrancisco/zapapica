@@ -9,13 +9,14 @@
  * Brand colors
  */
 
- $color-brand:          #263D4A;
- $color-secondary:      #18BC9C;
+ $color-brand:          #E2E7E9;
+ $color-secondary:      #D24140;
+ $color-terciary:       #2C2623;
   /**
   * Grey Scale
   * This is mainly to hold back designers from adding 200 different greys ;)
   */
- $black:                rgb(0,0,0);
+ $black:                  rgb(0,0,0);
  $darkergrey:             lighten(black, 20%);
  $darkgrey:               lighten(black, 30%);
  $grey:                   lighten(black, 45%);
